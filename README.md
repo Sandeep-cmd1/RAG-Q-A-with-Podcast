@@ -1,0 +1,1 @@
+This repository holds files related to building a streamlit app similar to NotebookLM of google, which is a chatbot that works with RAG framework by taking a file and answers any questions related to the file. Also there is summary podcast feature releated to uploaded file 
